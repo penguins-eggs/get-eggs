@@ -19,9 +19,11 @@ The provided usage instructions explain how to use the get-eggs script. Here are
 3. Execute the script with root privileges by running the following command:
 * `sudo chmod +x ./get-eggs.sh`  
 * `sudo ./get-eggs.sh`
+
 or
 * `sudo bash get-eggs.sh`
 4. Finally check and use it:
+  
 sudo eggs status
 
 # Fork it!

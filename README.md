@@ -31,7 +31,9 @@ This is a short and simple script, you are encouraged to fork the code and adapt
 To create a naked Ubuntu I start from the server version, install it normally, and after I remove the packages cloud-install and needrestart.
 
 #The note explains the process of creating a "naked" Ubuntu installation. Here are the steps involved:
+
 Start with the server version of Ubuntu: Begin the installation process using the server version of Ubuntu. The server version typically provides a minimal installation without any graphical user interface (GUI). This allows for a more streamlined and customizable setup.
+
 Perform a normal installation: Proceed with the installation process as you would with any regular Ubuntu installation. Follow the prompts, configure the necessary settings, and complete the installation.
 Remove the packages cloud-install and needrestart: After the installation is complete, remove the packages named "cloud-install" and "needrestart" from the system. These packages may have been installed as part of the default installation but are not required for a "naked" Ubuntu setup.
 By following these steps, you can create a "naked" Ubuntu installation that starts from the server version, goes through a standard installation process, and then removes the "cloud-install" and "needrestart" packages.

@@ -1,7 +1,9 @@
 # Get-eggs
 
 **Get-eggs**: The get-eggs script is designed to add the "penguins-eggs" package repository and configure it on Arch, Debian, Devuan, Ubuntu, or their derivatives. Here's a breakdown of what it does on different distributions:
+
 **Arch:** The script will add the AUR (Arch User Repository) repository, which is referred to as "addaura" in the original naming. This allows you to install the "penguins-eggs" package from the AUR.
+
 **Debian family:** On Debian-based distributions like Debian itself, Ubuntu, and their derivatives, the script will add a PPA (Personal Package Archive) for the "penguins-eggs" package. This enables you to install "penguins-eggs" using the package management system specific to that distribution.
 
 On Arch, it will add an AUR repository - from that the original name [addaura](./documentation/NAMING.md) - on the Debian family, it will add a PPA for penguins-eggs.

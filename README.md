@@ -1,4 +1,4 @@
-# Get-eggs
+# Install eggs from the repository:
 
 **Get-eggs**: The get-eggs script is designed to add the "penguins-eggs" package repository and configure it on Arch, Debian, Devuan, Ubuntu, or their derivatives. Here's a breakdown of what it does on different distributions:
 
